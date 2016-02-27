@@ -1,0 +1,10 @@
+Functional Requirements
+=======================
+1.  Receive input from customer (customer # and pin #)
+2.  Query user for type of transaction (deposit or withdrawal)
+3.  Process user query (deposit or withdrawal)
+
+Non-Functional Requirements
+===========================
+1.  Aesthetics of the ATM experience (color, sound, font size)_
+2.  Multiple language support

@@ -1,0 +1,19 @@
+As a student
+I want to see all available classes in my major
+So that I can easily plan my next semester
+
+As a teacher
+I want to see the spaces filled in each of my classes
+So that I can plan my next semester
+
+As a university records administrator
+I want access to all class statistics
+So that I can do records administration stuff
+
+As a department head
+I want a monthly printout of all students enrolled in my department
+So that I can do department head stuff
+
+As a student
+I want to see what classes in my major I am eligible for
+So that I can plan my next semester

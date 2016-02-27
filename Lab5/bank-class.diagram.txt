@@ -1,0 +1,7 @@
+Bank
+---------------------------
+-ArrayList<Customer>
+---------------------------
++void:readCustomers(String)
++void:addCustomer(Customer)
++Customer:findCustomer(int,int)

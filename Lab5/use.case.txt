@@ -1,0 +1,16 @@
+:::::Use Case:::::
+
+Normal Sequence: Customer Completes Transaction
+===============================================
+1.  Customer sees the initial ATM screen prompting them to enter customer #
+2.  Customer uses keypad to enter their customer number at which point the ATM prompts to enter customer pin
+3.  Customer enters pin number at which time the system will validate the customer number and pin number are paired
+4.  System will display the details of the customer's account.  Customer will select from checkings or savings account.
+5.  System will display initial transaction balance of zero.  Customer will enter amount of transaction and select Deposit or Withdrawal.
+6.  System performs the transaction, debit or credit the account as appropriate and return to Account Selection screen.
+
+Alternate Sequence: Customer(?) Unable to Transact
+==================================================
+1.  Customer(?) attempts to access the ATM but their file is not found or PIN does not match.  System displays "Can't find Customer" message.
+2.  Customer chooses Exit to terminate the application
+3.  Customer chooses cancel from the Transaction entry screen to abort transaction and return to Account Selection screen
