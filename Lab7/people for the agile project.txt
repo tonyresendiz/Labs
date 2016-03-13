@@ -1,0 +1,27 @@
+Alex,Cappuccino,alcap@gmail.com,2014,CS,involved in Mocha project
+Jan,Jacobsen,jacobsnax@geocities.org,1997,BA Basket Weaving,also involved in Mocha project
+Dingus,O'Shaughnessy,thebigdingle@hotmail.com,1969,Business,CFO of Mocha project
+Leo,Benegas,mymiddlefinger@yourface.org,2002,Education,Teacher Extraordinaire
+Peter,Smith,wfmwefowiejfweoij@mafoeije.com,1932,shhhhh,pfffft
+Flynt,Cole,coledropthehammer@yahoo.com,2001,Horticulture,Botany
+Snoop,Jardine,snoopingtom@jardine.com,1999,MBA,Interested in pyramid schemes
+Leroy,Jenkins,letsdothis@blizzard.com,2006,Communications,Working on viral videos
+Kevin,Scrivnor,kdawg@gitlord.com,2014,CS,Rumplestiltkin in 2010 CSUCI Theatre performance
+Grampa,Munster,fanglord@oldschool.de,1667,Hematology,Killed Elvis
+Michael,Caboose,sprucemoosecaboose@myci.csuci.edu,NULL,Undeclared,Likes to smoke a lot of...
+Vince,McMahon,thebigcheese@wwe.com,NULL,Physical Education,Thinks he killed Owen Hart
+James T., Kirk,elcapitan@federation.fed,NULL,Co-eds and Beer,Might be a time traveller
+Obi-wan,Kenobi,smellyoldman@tattoine.tat,NULL,History,Interested in musty robes
+Conan,The Destroyer,imback@governator.edu,NULL,Art,IM CAAAHMING AHHHHHHH
+Julius,Caesar,icameisawiconquered@roma.it,NULL,Political Science,Studying abroad in Gaul
+Miyamoto,Musashi,swordsaint@kawaii.jp,NULL,History,Fought Conan and won
+Charlie,Chaplin,hitlerstolemymustache@blackandwhite.com,NULL,Art,Roberty Downey Jr.
+Snoopy,The Dog,joecool@doghouse.com,NULL,History,Needs vaccinations
+Jackie,Chan,rumbleinthebronx@fighter.ch,NULL,Art,Beat up janitor with his broom
+Shaggy,Snacks,letsgetbaked@mysterymachine.com,NULL,Art,Owes $1000 at the cafeteria
+Fidel,Castro,chemybae@vivalarevolucion.cu,1967,Political Science,Brother lives in Miami 
+Emeril,Lagassi,spicemaster@tastetheheat.com,1983,Culinary Arts,Runs the cafeteria.
+Vincent,VanGogh,canthearyou@smalldots.de,NULL,Art,Likes starry nights
+Benny,Lava,dancemaster@bollywood.in,1992,Interpretive Dance and Song,Working with Lerory
+Richard,Simmonds,powersquats@sickhair.com,1994,Kineasiology,Has a torn groin at the moment
+PeeWee,Herman,exposedmember@bowtie.org,1992,Child Studies,Released on parole never grew up
